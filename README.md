@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 ¡Hola! Bienvenido a mi GitHub
 
-<!--
-**johanaer/johanaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Es un gusto tenerte aquí! Soy [Tu Nombre], una desarrolladora apasionada por la tecnología y el diseño. 🚀 Este espacio reúne mis proyectos, experimentos y aprendizajes en desarrollo web, inteligencia artificial y más.
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
+- 🎨 Diseñadora en proceso, enfocada en crear experiencias funcionales y visualmente atractivas.  
+- 💻 Apasionada por el desarrollo web, con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Open source**.  
+- ☁️ Exploradora del mundo cloud: Google Cloud y Linux.  
+- 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Herramientas y Tecnologías
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
+
+---
+
+## 📬 Contacto y Redes Sociales
+
+¿Quieres ponerte en contacto? Aquí están mis redes:  
+- 🌐 **Portafolio**: [Tu Portafolio](https://tu-dominio.com](https://github.com/johanaer/johanaer.github.io)  
+- 💼 **LinkedIn**: [Tu Nombre en LinkedIn](https://linkedin.com/in/tu-usuario)  
+- 🐦 **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)  
+- 📧 **Email**: [tu-email@example.com](mailto:tu-email@example.com)
+
+---
+
+## 🌗 Funcionalidades Únicas
+
+💡 **Modo Oscuro/Claro**: Varios de mis proyectos incluyen la funcionalidad para cambiar entre modos claro y oscuro, mejorando la accesibilidad y experiencia del usuario.  
+
+🌟 **Experiencia Intuitiva**: Todos mis proyectos están diseñados para ser intuitivos y amigables para el usuario.
+
+---
+
+✨ *Gracias por visitar mi perfil. ¡No dudes en explorar mis repositorios y conectar conmigo!* 😊
