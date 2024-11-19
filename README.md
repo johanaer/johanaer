@@ -25,19 +25,11 @@
 ## 📬 Contacto y Redes Sociales
 
 ¿Quieres ponerte en contacto? Aquí están mis redes:  
-- 🌐 **Portafolio**: [Tu Portafolio](https://tu-dominio.com](https://github.com/johanaer/johanaer.github.io)  
-- 💼 **LinkedIn**: [Tu Nombre en LinkedIn](https://linkedin.com/in/tu-usuario)  
-- 🐦 **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)  
-- 📧 **Email**: [tu-email@example.com](mailto:tu-email@example.com)
+- 🌐 **Portafolio**: [Portafolio](https://github.com/johanaer/johanaer.github.io)  
+- 💼 **LinkedIn**: [Laura Johana Eugenio](https://linkedin.com/in/tu-usuario)  
+- 📧 **Email**: [johanarodriguez310@gmail.com](johanarodriguez310@gmail.com)
 
 ---
 
-## 🌗 Funcionalidades Únicas
-
-💡 **Modo Oscuro/Claro**: Varios de mis proyectos incluyen la funcionalidad para cambiar entre modos claro y oscuro, mejorando la accesibilidad y experiencia del usuario.  
-
-🌟 **Experiencia Intuitiva**: Todos mis proyectos están diseñados para ser intuitivos y amigables para el usuario.
-
----
 
 ✨ *Gracias por visitar mi perfil. ¡No dudes en explorar mis repositorios y conectar conmigo!* 😊
