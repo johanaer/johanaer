@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Bienvenido a mi GitHub
 
-¡Es un gusto tenerte aquí! Soy Laura Johana, una desarrolladora apasionada por la tecnología y el diseño. 🚀 Este espacio reúne mis proyectos, experimentos y aprendizajes en desarrollo web, inteligencia artificial y más.
+¡Es un gusto tenerte aquí! Soy Laura Johana, una desarrolladora apasionada por la tecnología y el diseño. 🚀 Este espacio reúne mis proyectos, experimentos y aprendizajes en desarrollo web, clud y más.
 
 ## 🌟 Sobre mí
 - 🎨 Diseñadora en proceso, enfocada en crear experiencias funcionales y visualmente atractivas.  
-- 💻 Apasionada por el desarrollo web, con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Open source**.  
-- ☁️ Exploradora del mundo cloud: Google Cloud y Linux.  
+- 💻 Apasionada por el desarrollo web, con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Open source** .  
+- ☁️ Exploradora del mundo cloud: Google Cloud.  
 - 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.  
 
 ---
