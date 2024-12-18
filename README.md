@@ -5,7 +5,7 @@
 ## 🌟 Sobre mí
 - 🎨 Diseñadora en proceso, enfocada en crear experiencias funcionales y visualmente atractivas.  
 - 💻 Apasionada por el desarrollo web, con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Open source** .  
-- ☁️ Exploradora del mundo cloud: Google Cloud.  
+- ☁️ Exploradora del mundo cloud: Google Cloud y AWS.  
 - 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.  
 
 ---
