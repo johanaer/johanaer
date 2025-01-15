@@ -3,7 +3,7 @@
 ¡Es un gusto tenerte aquí! Soy Laura Johana, una desarrolladora apasionada por la tecnología y el diseño. 🚀 Este espacio reúne mis proyectos, experimentos y aprendizajes en desarrollo web, clud y más.
 
 ## 🌟 Sobre mí
-- 🎨 Diseñadora en proceso, enfocada en crear experiencias funcionales y visualmente atractivas.  
+- 🎨 Diseñadora web en proceso.  
 - 💻 Apasionada por el desarrollo web, con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Open source** .  
 - ☁️ Exploradora del mundo cloud: Google Cloud y AWS.  
 - 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.  
